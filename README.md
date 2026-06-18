@@ -1,35 +1,63 @@
-# Hi, I'm Jialiang Fan
+# Jialiang Fan (樊佳亮)
 
-I work on AI, robotics.
+PhD student in Computer Science & Engineering at the **University of Notre Dame**,
+advised by Prof. Fanxin Kong. I work on the **safety of embodied AI** — making
+robot-learning and LLM-driven autonomy systems behave safely and verifiably in the
+real world.
 
-My current interests are centered around building reliable embodied AI systems: robot learning, policy evaluation, simulation-to-real-world transfer, and structured experiment management for research codebases.
+My research sits at the intersection of vision-language-action (VLA) models,
+safe reinforcement learning, formal methods, and cyber-physical systems: I build
+benchmarks and methods that expose where "successful" robot policies are actually
+unsafe, and design neural-symbolic and formal-method-guided approaches to close that gap.
 
 ## Research Interests
 
-- Robot learning and embodied AI
-- Vision-language-action systems
-- Imitation learning and reinforcement learning
-- Safe and reliable policy deployment
-- Simulation, MVP environments, and real-world robot evaluation
-- Reproducible research workflows and experiment infrastructure
+- Safe & reliable embodied AI / vision-language-action (VLA) models
+- Safe reinforcement learning and its vulnerabilities
+- Cyber-physical systems and formal methods (STL, neural-symbolic verification)
+- LLM-based task planning for robotic systems
+- World models and robot learning
 
-## What I Care About
+## Selected Publications (2026)
 
-I like research projects that are not only technically interesting, but also reproducible and easy to inspect.
+- **SafeVLA-Bench: A Benchmark for the Success–Safety Gap in Vision-Language-Action Models** —
+  *arXiv 2026* (first author). [arXiv](https://arxiv.org/abs/2606.00773)
+- **SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems** —
+  *arXiv 2026* (first author). [arXiv](https://arxiv.org/abs/2602.24235)
+- **Vulnerability Analysis of Safe Reinforcement Learning via Inverse Constrained
+  Reinforcement Learning** — *arXiv 2026* (first author). [arXiv](https://arxiv.org/abs/2602.16543)
+- **Vulnerability Exploration of Safe Reinforcement Learning in Cyber-Physical Systems
+  via STL Mining** — *ICCPS 2026* (first author).
+- **SafeNet: A Neural-Symbolic Network for Safe Planning in Robotic Systems using
+  Formal Method-Guided LLM Fine-Tuning** — *ICRA 2026* (co-author).
 
-That usually means:
+Full list & citations on [Google Scholar](https://scholar.google.com/citations?user=6LAGBq8AAAAJ).
 
-- clear experiment specifications;
-- well-organized training and evaluation scripts;
-- explicit metrics and result files;
-- traceable experiment runs;
-- documentation that makes it possible for another person or AI agent to continue the work.
+## Selected Projects
 
-## Projects
+- **[SafeVLA-Harness](https://github.com/JialiangFan/SafeVLA-Harness)** — evaluation
+  harness behind SafeVLA-Bench for measuring the success–safety gap in VLA models.
+- **[awesome-vla-benchmarks](https://github.com/JialiangFan/awesome-vla-benchmarks)** —
+  a curated list of benchmarks for Vision-Language-Action models in robotics.
+- **[vla_mycobot](https://github.com/JialiangFan/vla_mycobot)** — run VLA /
+  imitation-learning policies on a myCobot 280Pi (6-DOF arm + RPi 4): LeRobot adapter,
+  teleop, ACT training pipeline.
+- **[research-project-guide](https://github.com/JialiangFan/research-project-guide)** —
+  conventions for organizing reproducible research projects (`docs/`, `code/`, `runs/`).
 
-- [research-project-guide](https://github.com/JialiangFan/research-project-guide): guidance for organizing research projects with clear `docs/`, `code/`, and `runs/` responsibilities.
+## Education
+
+- **Ph.D.**, Computer Science & Engineering — University of Notre Dame (2024–present)
+- **M.S.**, Computer Technology — Lanzhou University (2023)
+- **B.E.**, Software Engineering — Shandong University (2019)
+
+## Experience & Awards
+
+- Research Intern, **ABB** (Summer 2026)
+- **Outstanding Teaching Assistant Award**, Notre Dame CSE (2025–2026)
 
 ## Links
 
-- Website: [jialiangfan.com](https://jialiangfan.com)
-- GitHub: [github.com/JialiangFan](https://github.com/JialiangFan)
+- 🌐 [jialiangfan.com](https://jialiangfan.com)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=6LAGBq8AAAAJ)
+- 📧 fjl2401@gmail.com
