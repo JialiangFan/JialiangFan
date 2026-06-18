@@ -1,6 +1,6 @@
 # Hi, I'm Jialiang Fan
 
-I work on AI, robotics, and research systems.
+I work on AI, robotics.
 
 My current interests are centered around building reliable embodied AI systems: robot learning, policy evaluation, simulation-to-real-world transfer, and structured experiment management for research codebases.
 
