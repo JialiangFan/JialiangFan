@@ -35,8 +35,6 @@ Full list & citations on [Google Scholar](https://scholar.google.com/citations?u
 
 ## Selected Projects
 
-- **[SafeVLA-Harness](https://github.com/JialiangFan/SafeVLA-Harness)** — evaluation
-  harness behind SafeVLA-Bench for measuring the success–safety gap in VLA models.
 - **[awesome-vla-benchmarks](https://github.com/JialiangFan/awesome-vla-benchmarks)** —
   a curated list of benchmarks for Vision-Language-Action models in robotics.
 - **[vla_mycobot](https://github.com/JialiangFan/vla_mycobot)** — run VLA /
